@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Bingyu Zhang"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bingyu Zhang"
+description              : &description "Ph.D. Candidate, Applied Mathematics and Computational Science, University of Pensylvania"
+url                      : https://nbxszby416.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "nbxszby416/nbxszby416.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Bingyu Zhang"
+  avatar           : "bingyu.jpg"
+  bio              : "Ph.D. Candidate, Applied Mathematics and Computational Science, University of Pensylvania"
+  location         : "Shanghai"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  googlescholar    : 
+  email            : "bingyuz77@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,16 +91,16 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "nbxszby416"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "Bingyu Zhang"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
