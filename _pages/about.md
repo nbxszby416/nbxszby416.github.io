@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. candidate in the [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu/) at [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Yong Chen](https://penncil.med.upenn.edu/about-pi/). [[Curriculum Vitae](https://nbxszby416.github.io/files/bingyu_cv.pdf)]
+* I will be a Ph.D. student in the [Applied Mathematics & Computational Science](https://www.amcs.upenn.edu/) at [University of Pennsylvania](https://www.upenn.edu/), advised by Prof. [Yong Chen](https://penncil.med.upenn.edu/about-pi/) in 2021 Fall. [[Curriculum Vitae](https://nbxszby416.github.io/files/bingyu_cv.pdf)]
 * My research interests mainly focus on statistical and computational methods for integrating evidence from different data sources, statistical genetics, network modeling and machine learning.
 * I am now a M.S. student in [Fudan University](https://www.fudan.edu.cn/en). My graduate thesis advisor is Prof. [Shuqin Zhang](http://math.fudan.edu.cn/ShowPeople.aspx?info_lb=548&flag=526&info_id=3144), and my graduate thesis is *Cell Atlas Annotation Based on Joint Scoring and Supervised Learning*.
 * I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Mijia Lai](http://math.sjtu.edu.cn/faculty/mlai/) and Prof. [Ling Pi](http://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIfts), and my thesis advisor is Prof. [Dewen Xiong](http://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIhpQ).

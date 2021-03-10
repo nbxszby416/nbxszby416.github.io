@@ -12,7 +12,7 @@ redirect_from:
 [Click to View My Up-to-date Curriculum Vitae [PDF]](https://nbxszby416.github.io/files/bingyu_cv.pdf)
 
 # Education
-* **M.S. in Applied Statistics, 2020, Fudan University**
-* **B.S. in Mathematics and Applied Mathematics, Shanghai Jiao Tong University**
+* **M.S. in Applied Statistics, 2021, Fudan University**
+* **B.S. in Mathematics and Applied Mathematics, 2015, Shanghai Jiao Tong University**
 
 <!-- <embed src="https://nbxszby416.github.io/files/bingyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
