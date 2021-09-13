@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bingyu Zhang"
 title_separator          : "-"
 name                     : &name "Bingyu Zhang"
-description              : &description "M.S. in Applied Statistics, Fudan University"
+description              : &description "Ph.D. in Applied Mathematics & Computational Science, University of Pennsylvania"
 url                      : https://nbxszby416.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nbxszby416/nbxszby416.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Bingyu Zhang"
   avatar           : "bingyu.jpg"
-  bio              : "M.S. in Applied Statistics, Fudan University"
-  location         : "Shanghai"
+  bio              : "Ph.D. in Applied Mathematics & Computational Science, University of Pennsylvania"
+  location         : "Philadelphia, PA"
   employer         : 
   googlescholar    : 
-  email            : "bingyuz77@gmail.com"
+  email            : "bingyuz7@sas.upenn.edu"
   uri              : 
   bitbucket        :
   codepen          :

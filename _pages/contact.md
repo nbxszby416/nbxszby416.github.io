@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-School of Mathematics and Sciences, Fudan University<br>
+The Graduate Group in Applied Mathematics & Computational Science, University of Pennsylvania<br>
 
-Email: bingyuz77 [at] gmail.com
+Email: bingyuz7 [at] sas.upenn.edu
