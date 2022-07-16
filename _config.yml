@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bingyu Zhang"
 title_separator          : "-"
-name                     : &name "Bingyu Zhang(张冰宇)"
+name                     : &name "Bingyu Zhang"
 description              : &description "Ph.D. student in Applied Mathematics & Computational Science, University of Pennsylvania"
 url                      : https://nbxszby416.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bingyu Zhang"
+  name             : "Bingyu Zhang (张冰宇)"
   avatar           : "bingyu.jpg"
-  bio              : "Ph.D. in Applied Mathematics & Computational Science, University of Pennsylvania"
+  bio              : "Ph.D. student in Applied Mathematics & Computational Science, University of Pennsylvania"
   location         : "Philadelphia, PA"
   employer         : 
   googlescholar    : 
