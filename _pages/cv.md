@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Bingyu Zhang (张冰宇)"
-permalink: /cv/
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://nbxszby416.github.io/files/bingyu_cv.pdf)
+<!--[Click to View My Up-to-date Curriculum Vitae [PDF]](https://nbxszby416.github.io/files/bingyu_cv.pdf)> -->
 
 # Education
 * **M.S. in Applied Statistics, 2021, Fudan University**
