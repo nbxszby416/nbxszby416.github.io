@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /files/bingyu_cv.pdf
+    url: /bio/
 
   - title: "Publications"
     url: /publications/
