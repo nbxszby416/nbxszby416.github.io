@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-The Graduate Group in Applied Mathematics & Computational Science, University of Pennsylvania<br>
+Applied Mathematics and Computational Science, School of Arts & Sciences, University of Pennsylvania, Philadelphia, PA 19104<br>
 
 Email: bingyuz7 [at] sas.upenn.edu
