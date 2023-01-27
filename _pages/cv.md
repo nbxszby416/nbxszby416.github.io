@@ -17,10 +17,5 @@ Education
 
 Work experience
 ======
-* Dec. 2020 - Aug. 2021: Data Scientist Intern
-  * DotAI (Startup)
-  * Shanghai
-
-* May 2020 - Oct. 2020: Solutions Architect Intern
-  * AWS GCR Public Sector
-  * Shanghai
+* Data Scientist Intern, DotAI (Startup), Dec. 2020 - Aug. 2021
+* Solutions Architect Intern, AWS GCR Public Sector, May 2020 - Oct. 2020
